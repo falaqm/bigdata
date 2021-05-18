@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\u6077221\Desktop\Test\sbt\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogParserSpec$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleTest$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleTest$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogParserSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogParserSpec$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogParserSpec$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\u6077221\Desktop\Test\sbt\bigdata\spark\projects\apache-log-parsing_sbt\target\scala-2.10\test-classes.bak[0m
